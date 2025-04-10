@@ -1,0 +1,45 @@
+.header{
+    background-color: red; 
+}
+.h100{
+    height: 100px;
+}
+.wrapper{
+}
+.blog{
+	float: left;
+	width: 70%;
+	height: 150px;
+	background-color: green;
+}
+.content{
+    float: right;
+	width: 30%;
+	height: 150px;
+	background-color: blue;
+}
+.container{
+}
+.item{
+	float: left;
+	width: 33.33%;
+	height: 130px;
+}
+.teal{
+	background-color: teal;
+}
+.aqua{ 
+	background-color: aqua;
+}
+.gray{
+	background-color: grey;
+}
+.footer{
+	clear: both;
+	background-color: black;
+}
+.box{
+	width: 50%;
+	height: 300px;
+	border: 0;
+}
